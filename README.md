@@ -16,7 +16,7 @@ This script automates log analysis tasks, including copying Apache, Spark, and H
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/log-analysis.git
+   git clone https://github.com/bevcikandrij125/log-analysis.git
    cd log-analysis
    ```
 2. Install required dependencies:
